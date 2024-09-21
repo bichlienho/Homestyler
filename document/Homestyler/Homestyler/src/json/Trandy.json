@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "name": "2-Way Inverter Air Conditioner 9,000- BTU/h AR09ASHZAWKNSV",
+    "image": "/assets/images/may lanh/mlss1.png ",
+    "slug": "san-pham-1",
+    "desc": " Good Sleep mode for deep, refreshing sleep",
+    "old_price": 548.04,
+    "new_price": 493.23,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 6,
+        "name": "air-conditioner"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "WindFree™ PM2.5 Wifi- Inverter Air Conditioner 18,000 BTU/h AR18CYECAWKNSV",
+    "image": " /assets/images/may lanh/mlss2.png",
+    "slug": "san-pham-2",
+    "old_price": 914.24,
+    "new_price": 821.9,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 6,
+        "name": "air-conditioner"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "WindFree™ Wifi Inverter Air Conditioner 18,000 BTU/h AR18CYFAAWKNSV",
+    "image": "/assets/images/may lanh/mlss3.png",
+    "slug": "san-pham-3",
+    "old_price": 865.6,
+    "new_price": 779.0,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 6,
+        "name": "air-conditioner"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Air conditioner WindFree™ PM 2.0 21,500 BTU/h AR24BYAAAW20",
+    "image": "/assets/images/may lanh/mlss4.png",
+    "slug": "san-pham-4",
+    "old_price": 1224.94,
+    "new_price": 1120.45,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 6,
+        "name": "air-conditioner"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Air conditioner WindFree™ PM 2.0 21,500 BTU/h AR24BYAAAW20",
+    "image": "/assets/images/may lanh/mlss5.png",
+    "slug": "san-pham-5",
+    "old_price": 1599.6,
+    "new_price": 1439.62,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 6,
+        "name": "air-conditioner"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "8kg Front Loader- With Steam and Eco Bubble Technology- WW80TA046AX",
+    "image": "/assets/images/may giat/ss1.webp",
+    "slug": "san-pham-6",
+    "old_price": 400.01,
+    "new_price": 10099.0,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 3,
+        "name": "washing machine"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "8.5kg QuickDrive™ Front Load Smart Washer - WW85T984DSX",
+    "image": "/assets/images/may giat/ss2.png",
+    "slug": "san-pham-7",
+    "old_price": 933.9,
+    "new_price": 849.0,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 3,
+        "name": "washing machine"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "12kg BESPOKE BubbleWash™ Smart Front Load Washer with AI Wash and Auto Dispense - White WW12BB944DGH",
+    "image": "/assets/images/may giat/ss3.png",
+    "slug": "san-pham-8",
+    "old_price": 1634.2,
+    "new_price": 1590.0,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 3,
+        "name": "washing machine"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "18kg BESPOKE AI Grande Smart Front Load Washer with AI Wash and Auto Dispense - WF18B9600KV",
+    "image": "/assets/images/may giat/ss4.png",
+    "slug": "san-pham-9",
+    "old_price": 2498,
+    "new_price": 2299,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 3,
+        "name": "washing machine"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "12kg BESPOKE BubbleWash™ Smart Front Load Washer with AI Wash and Auto Dispense - White WW12BB944DGH",
+    "image": "/assets/images/may giat/ss5.png",
+    "slug": "san-pham-10",
+    "old_price": 1647,
+    "new_price": 1599,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 3,
+        "name": "washing machine"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Samsung Inverter Refrigerator RT35CG5544B1SV",
+    "image": "/assets/images/tu lanh/tulanh 7 ss.png",
+    "slug": "san-pham-11",
+    "old_price": 564.54,
+    "new_price": 432.58,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 4,
+        "name": "fridge"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Samsung Inverter Bespoke refrigerator RT38CB6784C3SV",
+    "image": "/assets/images/tu lanh/tulanh 8 ss.png",
+    "slug": "san-pham-12",
+    "old_price": 700.62,
+    "new_price": 531.55,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 4,
+        "name": "fridge"
+      }
+    ]
+  }
+]

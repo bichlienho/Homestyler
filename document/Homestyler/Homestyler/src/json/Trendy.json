@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Modern Sofa",
+      "description": "Stylish and comfortable modern sofa.",
+      "image": "/assets/images/sofa.jpg",
+      "new_price": 599.99,
+      "old_price": 799.99
+    },
+    {
+      "id": 2,
+      "name": "Elegant Dining Table",
+      "description": "A beautiful dining table for your modern home.",
+      "image": "/assets/images/dining-table.jpg",
+      "new_price": 399.99,
+      "old_price": 499.99
+    },
+    {
+      "id": 3,
+      "name": "Contemporary Lamp",
+      "description": "Illuminate your space with this sleek lamp.",
+      "image": "/assets/images/lamp.jpg",
+      "new_price": 89.99,
+      "old_price": 119.99
+    }
+  ]
+  
