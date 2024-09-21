@@ -20,8 +20,7 @@
   <a  href="https://github.com/bichlienho/Homestyler"><strong>Explore the source »</strong></a>
   <a  href="https://github.com/bichlienho/Homestyler/tree/main/document" target="_blank"><strong>Explore the documents »</strong></a>
 
-  <br  />
-  <a  href="https://youtu.be/JTY0b6oepK0" target="_blank">Video</a>
+  <br  /><a  href="https://youtu.be/JTY0b6oepK0" target="_blank">Video</a>
 
 
 
@@ -73,6 +72,7 @@ applicable.</br>
 Tran Thi Thao `Student1501286` </br>
 Vo Hoang Khai `Student 1501207` </br>
 Nguyen Lam Chi Nguyen `Student1501858` </br>
+Pham Huu Nam Anh `Student1501062`
  
 
 
