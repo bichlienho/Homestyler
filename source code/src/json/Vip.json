@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "2-Way Inverter Air Conditioner 9,000- BTU/h AR09ASHZAWKNSV",
+    "image": "/assets/images/may lanh/mlss1.png ",
+    "slug": "san-pham-1",
+    "desc": " Good Sleep mode for deep, refreshing sleep",
+    "old_price": 548.04,
+    "new_price": 493.23,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 6,
+        "name": "air-conditioner"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "WindFree™ PM2.5 Wifi- Inverter Air Conditioner 18,000 BTU/h AR18CYECAWKNSV",
+    "image": " /assets/images/may lanh/mlss2.png",
+    "slug": "san-pham-2",
+    "old_price": 914.24,
+    "new_price": 821.9,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 6,
+        "name": "air-conditioner"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "WindFree™ Wifi Inverter Air Conditioner 18,000 BTU/h AR18CYFAAWKNSV",
+    "image": "/assets/images/may lanh/mlss3.png",
+    "slug": "san-pham-3",
+    "old_price": 865.6,
+    "new_price": 779.0,
+    "brand": [
+      {
+        "id": 1,
+        "name": "samsung"
+      }
+    ],
+    "cate": [
+      {
+        "id": 6,
+        "name": "air-conditioner"
+      }
+    ]
+  }
+]

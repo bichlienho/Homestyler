@@ -1,0 +1,1748 @@
+[
+    {
+        "id": 1,
+        "name": "2-Way Inverter Air Conditioner 9,000- BTU/h AR09ASHZAWKNSV",
+        "image": "/assets/images/may lanh/mlss1.png ",
+        "file": "/assets/file/ml1ss.docx",
+        "slug": "san-pham-1",
+        "desc": " Good Sleep mode for deep, refreshing sleep",
+        "old_price": 548.04,
+        "new_price": 493.23,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "WindFree™ PM2.5 Wifi- Inverter Air Conditioner 18,000 BTU/h AR18CYECAWKNSV",
+        "image": " /assets/images/may lanh/mlss2.png",
+        "file": "/assets/file/ml2ss.docx",
+        "slug": "san-pham-2",
+        "old_price": 914.24,
+        "new_price": 821.90,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "WindFree™ Wifi Inverter Air Conditioner 18,000 BTU/h AR18CYFAAWKNSV",
+        "image": "/assets/images/may lanh/mlss3.png",
+        "file": "/assets/file/ml3ss.docx",
+        "slug": "san-pham-3",
+        "old_price": 865.60,
+        "new_price": 779.00,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Air conditioner WindFree™ PM 2.0 21,500 BTU/h AR24BYAAAW20",
+        "image": "/assets/images/may lanh/mlss4.png",
+        "file": "/assets/file/ml4ss.docx",
+        "slug": "san-pham-4",
+        "old_price": 1224.94,
+        "new_price": 1120.45,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Air conditioner WindFree™ PM 2.0 21,500 BTU/h AR24BYAAAW20",
+        "image": "/assets/images/may lanh/mlss5.png",
+        "file": "/assets/file/ml5ss.docx",
+        "slug": "san-pham-5",
+        "old_price": 1599.60,
+        "new_price": 1439.62,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "8kg Front Loader- With Steam and Eco Bubble Technology- WW80TA046AX",
+        "image": "/assets/images/may giat/ss1.webp",
+        "file": "/assets/file/maygiatss1.docx",
+        "slug": "san-pham-6",
+        "old_price": 400.01,
+        "new_price": 10099.0,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "8.5kg QuickDrive™ Front Load Smart Washer - WW85T984DSX",
+        "image": "/assets/images/may giat/ss2.png",
+        "file": "/assets/file/maygiatss2.docx",
+        "slug": "san-pham-7",
+        "old_price": 933.9,
+        "new_price": 849.00,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "12kg BESPOKE BubbleWash™ Smart Front Load Washer with AI Wash and Auto Dispense - White WW12BB944DGH",
+        "image": "/assets/images/may giat/ss3.png",
+        "file": "/assets/file/maygiatss3.docx",
+        "slug": "san-pham-8",
+        "old_price": 1634.20,
+        "new_price": 1590.0,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "18kg BESPOKE AI Grande Smart Front Load Washer with AI Wash and Auto Dispense - WF18B9600KV",
+        "image": "/assets/images/may giat/ss4.png",
+        "file": "/assets/file/maygiatss4.docx",
+        "slug": "san-pham-9",
+        "old_price": 2498,
+        "new_price": 2299,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "12kg BESPOKE BubbleWash™ Smart Front Load Washer with AI Wash and Auto Dispense - White WW12BB944DGH",
+        "image": "/assets/images/may giat/ss5.png",
+        "file": "/assets/file/maygiatss5.docx",
+        "slug": "san-pham-10",
+        "old_price": 1647,
+        "new_price": 1599,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Samsung Inverter Refrigerator RT35CG5544B1SV",
+        "image": "/assets/images/tu lanh/tulanh 7 ss.png",
+        "file": "/assets/file/tulanh7.docx",
+        "slug": "san-pham-11",
+        "old_price": 564.54,
+        "new_price": 432.58,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Samsung Inverter Bespoke refrigerator RT38CB6784C3SV",
+        "image": "/assets/images/tu lanh/tulanh 8 ss.png",
+        "file": "/assets/file/tulanh8.docx",
+        "slug": "san-pham-12",
+        "old_price": 700.62,
+        "new_price": 531.55,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Samsung Inverter Multi Door Refrigerator RF48A4000B4/SV",
+        "image": "/assets/images/tu lanh/tulanh 9 ss.png",
+        "file": "/assets/file/tulanh9.docx",
+        "slug": "san-pham-13",
+        "old_price": 989.28,
+        "new_price": 618.14,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Samsung Inverter refrigerator 655 liters Side By Side RS62R5001M9/SV",
+        "image": "/assets/images/tu lanh/tulanh 10 ss.png",
+        "file": "/assets/file/tulanh10.docx",
+        "slug": "san-pham-14",
+        "old_price": 944.33,
+        "new_price": 618.14,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Samsung Inverter Multi Door Bespoke Refrigerator RF59CB66F8S/SV",
+        "image": "/assets/images/tu lanh/tulanh 11 ss.png",
+        "file": "/assets/file/tulanh11.docx",
+        "slug": "san-pham-15",
+        "old_price": 2057.73,
+        "new_price": 1686.60,
+        "brand": [
+            {
+                "id": 1,
+                "name": "samsung"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Toshiba KT-17SH1NV electric kettle",
+        "image": "/assets/images/am/am1.png",
+        "file": "/assets/file/am1.docx",
+        "slug": "san-pham-16",
+        "desc": "Design youthful, modern. The product is made from specialized 304 stainless steel, providing high safety for users' health.",
+        "old_price": 40.25,
+        "new_price": 32.06,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 1,
+                "name": "electric Kettle"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "TOSHIBA KT-17DR1NV SUPER SPEED HEATER",
+        "image": "/assets/images/am/am2.png",
+        "file": "/assets/file/am2.docx",
+        "slug": "san-pham-17",
+        "desc": "The product is covered with a sturdy, modern steel layer and has many features that promise to be a great choice for everyone's needs",
+        "old_price": 55.25,
+        "new_price": 48.92,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 1,
+                "name": "electric Kettle"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "TOSHIBA KT-15DS1NV SUPER SPEED HEATER",
+        "image": " /assets/images/am/am3.png",
+        "file": "/assets/file/am3.docx",
+        "slug": "san-pham-18",
+        "desc": "Boil 1.5L of water in just 3 minutes. With modern technology and sophisticated, easy-to-use design, this device will surely satisfy you. Durability can be used up to 10,000 times.",
+        "old_price": 45.00,
+        "new_price": 39.05,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 1,
+                "name": "electric Kettle"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "TOSHIBA KT-15DS1PV SUPER SPEED HEATER",
+        "image": "/assets/images/am/am4.png",
+        "file": "/assets/file/am4.docx",
+        "slug": "san-pham-19",
+        "desc": "With convenient features, beautiful design and modern technology, it has become the most popular product line on the market today",
+        "old_price": 41.05,
+        "new_price": 34.90,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 1,
+                "name": "electric Kettle"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "TOSHIBA KT-17SH2NV SUPER SPEED HEATER",
+        "image": " /assets/images/am/am5.png",
+        "file": "/assets/file/am5.docx",
+        "slug": "san-pham-20",
+        "desc": "The most modern design with a bottle body made from stainless steel creates a bright, beautiful and eye-catching appearance.",
+        "old_price": 30.50,
+        "new_price": 24.25,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 1,
+                "name": "electric Kettle"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "TOSHIBA ELECTRIC TORNADO FAN F-ASB50VN(W",
+        "image": "/assets/images/quat/quattoshi1.jpeg ",
+        "file": "/assets/file/quattoshi1.docx",
+        "slug": "san-pham-21",
+        "desc": "The fan's design is inspired by aircraft propellers to increase air intake and  reduce noise, while creating 2.5 times more airflow.",
+        "old_price": 14.39,
+        "new_price": 15.79,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 5,
+                "name": "fans"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "TOSHIBA F-LSD30(W)VN FAN",
+        "image": "/assets/images/quat/quattoshi2.jpeg",
+        "file": "/assets/file/quattoshi2.docx",
+        "slug": "san-pham-22",
+        "desc": "Luxurious design with a super large LED screen, displaying full information, combined with a smart temperature sensor, brings class and comfort to  the user.",
+        "old_price": 140.14,
+        "new_price": 127.44,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 5,
+                "name": "fans"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "TOSHIBA F-LSD10 FAN(VN",
+        "image": " /assets/images/quat/quattoshi3.jpg",
+        "file": "/assets/file/quattoshi3.docx",
+        "slug": "san-pham-23",
+        "desc": "The product uses a super energy-saving Inverter motor, combined with 26  wind  levels suitable for the different health of each family member",
+        "old_price": 105.2,
+        "new_price": 115.7,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 5,
+                "name": "fans"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "TOSHIBA F-LSD10 FAN(VN)",
+        "image": "/assets/images/quat/quattoshi4.jpg",
+        "file": "/assets/file/quattoshi4.docx",
+        "slug": "san-pham-24",
+        "desc": "The product uses a super energy-saving Inverter motor, combined with 26  wind levels suitable for the different health of each family member.",
+        "old_price": 127.44,
+        "new_price": 140.14,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 5,
+                "name": "fans"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "TOSHIBA F-LSA20VN FAN",
+        "image": "/assets/images/quat/quattoshi5.jpeg",
+        "file": "/assets/file/quattoshi5.docx",
+        "slug": "san-pham-25",
+        "desc": "The 5-blade fan combined with automatic wind modes helps circulate cool  air and  spread a feeling of comfort throughout the house",
+        "old_price": 127.44,
+        "new_price": 140.14,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 5,
+                "name": "fans"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "9 KG, THE GREATWAVES WASHING MACHINE WITH STEAM & ULTRA FINE BUBBLE (UFB)",
+        "image": "/assets/images/may giat/ts1.jpeg",
+        "file": "/assets/file/maygiatts1.docx",
+        "slug": "san-pham-26",
+        "desc": "The 5-blade fan combined with automatic wind modes helps circulate cool  air and  spread a feeling of comfort throughout the house",
+        "old_price": 127.44,
+        "new_price": 140.14,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "10 KG, REAL INVERTER WASHING MACHINE WITH GREATWAVES TECHNOLOGY",
+        "image": " /assets/images/may giat/ts2.jpeg",
+        "file": "/assets/file/maygiatts2.docx",
+        "slug": "san-pham-27",
+        "desc": "A one-of-a-kind washer, Toshiba's Front Load Washing Machine uses GreatWaves technology,  enabling both Flush Wave and Cold Wash to not only save you time and money, but also protect your laundry.",
+        "old_price": 949.18,
+        "new_price": 862.89,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "8KG WASH | 5KG DRY, FRONT LOAD WASHER DRYER",
+        "image": "/assets/images/may giat/ts3.jpeg ",
+        "file": "/assets/file/maygiatts3.docx",
+        "slug": "san-pham-28",
+        "desc": "Toshiba's Real Inverter motor is designed to create a higher efficiency, reduce noise levels and reduce energy consumption. The extraordinary motor efficiency surge can provide  up to 80% less energy consumption and 11.4% lower noise levels.",
+        "old_price": 338.7,
+        "new_price": 307.91,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "14 KG, TOP LOAD WASHER WITH S-DD INVERTER",
+        "image": "/assets/images/may giat/ts4.jpeg ",
+        "file": "/assets/file/maygiatts4.docx",
+        "slug": "san-pham-29",
+        "desc": "Toshiba's Top Load Washer features an S-DD Inverter which is more quiet, more stable, more powerful and highly durable.",
+        "old_price": 610.03,
+        "new_price": 554.57,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "12 KG, TOP LOAD WASHER WITH 7 STEP WASH",
+        "image": " /assets/images/may giat/ts5.jpeg",
+        "file": "/assets/file/maygiatts5.docx",
+        "slug": "san-pham-30",
+        "desc": "The Toshiba Top Load Washer is equipped with S-DD Inverter technology that enables  you to experience optimal washing result with 7 simple steps.",
+        "old_price": 519.59,
+        "new_price": 472.35,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "TOSHIBA AIR CONDITIONER RAS-H18E2KCVG-V",
+        "image": " /assets/images/may lanh/ml1.jpeg",
+        "file": "/assets/file/ml1toshiba.docx",
+        "slug": "san-pham-31",
+        "desc": "Comprehensive air purification. The product is highly appreciated for its integration of modern technology to bring fresh air and health care to users",
+        "old_price": 853.20,
+        "new_price": 791.34,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "TOSHIBA AIR CONDITIONER RAS-H13H4KCVG-V",
+        "image": "/assets/images/may lanh/ml2.jpeg",
+        "file": "/assets/file/ml2toshiba.docx",
+        "slug": "san-pham-32",
+        "desc": "Brings cool, clean breeze. Simple, luxurious one-piece design with exclusive technology, air purification gives you a fresh, cool space.",
+        "old_price": 548.00,
+        "new_price": 493.20,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "TOSHIBA AIR CONDITIONER RAS-H10H4KCVG-V",
+        "image": " /assets/images/may lanh/ml3.jpeg",
+        "file": "/assets/file/ml3toshiba.docx",
+        "slug": "san-pham-33",
+        "desc": "Ultra Fresh air purification technology. The PM2.5 dust filter has the ability to filter out dust that is invisible to the naked eye, such as cigarette smoke, with an efficiency of over 94%",
+        "old_price": 436.70,
+        "new_price": 393.00,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "TOSHIBA AIR CONDITIONER  RAS-H13C1KCVG-V",
+        "image": "/assets/images/may lanh/ml4.png",
+        "file": "/assets/file/ml4toshiba.docx",
+        "slug": "san-pham-34",
+        "desc": "Elegant, sophisticated and luxurious. The product has a design with soft  rounded corners and borders, evoking friendliness.",
+        "old_price": 597.53,
+        "new_price": 537.7,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "TOSHIBA AIR  CONDITIONER RAS-H10D2KCVG-V",
+        "image": " /assets/images/may lanh/ml5.jpeg",
+        "file": "/assets/file/ml5toshiba.docx",
+        "slug": "san-pham-35",
+        "desc": "Coated with a special layer of Magic Coil, the Toshiba RAS-H10D2KCVG-V air conditioner can completely prevent impurities and bacteria from sticking to the indoor unit",
+        "old_price": 411.96,
+        "new_price": 370.764,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Toshiba 596 liter refrigerator GR-RS775WI-PMV(06)-MG",
+        "image": "/assets/images/tu lanh/tulanh 1 toshi.png",
+        "file": "/assets/file/tulanh1.docx",
+        "slug": "san-pham-36",
+        "desc": "Toshiba Inverter 596 liter refrigerator GR-RS775WI-PMV(06)-MG is designed with 10-layer Moranti Gray material that not only provides durability to the refrigerator, minimizes scratches and fingerprints, but also brings luxury and high aesthetics to the cabinet.",
+        "old_price": 810.40,
+        "new_price": 544.23,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Toshiba Refrigerator GR-RF669WI-PGV(A9)-BG Inverter",
+        "image": "/assets/images/tu lanh/tulanh 4 toshi.png",
+        "file": "/assets/file/tulanh4.docx",
+        "slug": "san-pham-37",
+        "desc": "Toshiba Inverter 515 liter refrigerator GR-RF669WI-PGV(A9)-BG has a luxurious design with delicate Japanese textile patterns on the cabinet surface.",
+        "old_price": 1269.63,
+        "new_price": 982.76,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Toshiba Inverter Refrigerator 509 Liters GR-RF605WI-PMV(06)-MG",
+        "image": "/assets/images/tu lanh/tulanh3.png",
+        "file": "/assets/file/tulanh3.docx",
+        "slug": "san-pham-38",
+        "desc": "Toshiba Inverter Refrigerator 509 Liters GR-RF605WI-PMV(06)-MG possesses 2 independent indoor units and a temperature sensor system that brings convenience when used, making it an ideal choice for your kitchen space in your family",
+        "old_price": 842.34,
+        "new_price": 678.00,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "TOSHIBA REFRIGERATOR GR-RB410WE-PMV(30)-BS",
+        "image": "/assets/images/tu lanh/tulanh 5 toshi.png",
+        "file": "/assets/file/tulanh5.docx",
+        "slug": "san-pham-39",
+        "desc": "Flexible, easy-to-use shelf design with effective and optimal cooling, sterilization and electricity-saving technology",
+        "old_price": 616.21,
+        "new_price": 362.47,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "TOSHIBA SMART  INVERTER REFRIGERATOR GR-RS600WI-PMV(37)-SG",
+        "image": "/assets/images/tu lanh/tulanh 2 toshi.png",
+        "file": "/assets/file/tulanh2.docx",
+        "slug": "san-pham-40",
+        "desc": "Sophisticated, minimalist design, in harmony with many interior spaces. The cabinet surface is covered with a matte material that is  stain-resistant and easy to clean. Smart connection and control bring  many conveniences",
+        "old_price": 593.37,
+        "new_price": 532.00,
+        "brand": [
+            {
+                "id": 2,
+                "name": "toshiba"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "LG DUALCOOL™Inverter 2-way air  conditioner 24,000 BTU (2.5HP)|B24END1",
+        "image": "/assets/images/may lanh/mllg1.png ",
+        "file": "/assets/file/maylanh1.docx",
+        "slug": "san-pham-41",
+        "desc": "Based on LG internal test results above: LG inverter air conditioner (US-Q242K*) cools up to 40% faster than LG non-inverter air conditioner (TS-H2465DAO) . *Initial temperature (Outdoor 35°C, Indoor 33°C), Set temperature (26°C).",
+        "old_price": 1319.20,
+        "new_price": 1319.20,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "LG DUALCOOL™ Inverter 1-way air conditioner 12,000 BTU (1.5HP)|V13APIG",
+        "image": " /assets/images/may lanh/mllg2.png",
+        "file": "/assets/file/maylanh2.docx",
+        "slug": "san-pham-42",
+        "desc": "With a cooling capacity of 1.5 HP, the air conditioner is a suitable",
+        "old_price": 799.60,
+        "new_price": 704.74,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "LG DUALCOOL™ Air Conditioner  Non-Inverter 1-Way 12,000 BTU (1.5HP) | K12CH",
+        "image": "/assets/images/may lanh/mllg3.png",
+        "file": "/assets/file/maylanh3.docx",
+        "slug": "san-pham-43",
+        "desc": "Reducing allergens maintains a healthy atmosphere",
+        "old_price": 395.50,
+        "new_price": 395.50,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "LG DUALCOOL™Inverter 1-way air  conditioner 9,000 BTU (1HP)|V10APFUV",
+        "image": "/assets/images/may lanh/mllg4.png",
+        "file": "/assets/file/maylanh4.docx",
+        "slug": "san-pham-44",
+        "desc": "Automatically cleans the environment inside the indoor unit",
+        "old_price": 708.87,
+        "new_price": 601.65,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "LG DUALCOOL™ Inverter 1-way air conditioner 24,000 BTU (2.5HP)|V24WIN",
+        "image": "/assets/images/may lanh/mllg5.png ",
+        "file": "/assets/file/maylanh5.docx",
+        "slug": "san-pham-45",
+        "desc": "Instant coolness with DUAL Inverter",
+        "old_price": 981.03,
+        "new_price": 939.80,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": " 9kg Series 9 Front Load Washing Machine with 5 Star Energy & Water Rating in Black Steel  ",
+        "image": " /assets/images/may giat/lg1.png ",
+        "file": "/assets/file/maygiatLG1.docx",
+        "slug": "san-pham-46",
+        "desc": "AI DD® refers to 'Artificial Intelligence' technology that has been applied to control  the machines washing motions via the Direct Drive Motor.  ",
+        "old_price": 1539.0,
+        "new_price": 1399.0,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": " 9kg Series 3 Top Load Washing Machine with AI DD® in White  ",
+        "image": " /assets/images/may giat/lg3.png ",
+        "file": "/assets/file/maygiatLG3.docx",
+        "slug": "san-pham-47",
+        "desc": " A large lint filter helps to keep the tub and your clothes clean ",
+        "old_price": 999.00,
+        "new_price": 899.00,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": " Series 9 Washing Machine, Dryer & Stacking Kit Pack  ",
+        "image": "/assets/images/may giat/lg5.png  ",
+        "file": "/assets/file/maygiatLG5.docx",
+        "slug": "san-pham-48",
+        "desc": " Update your laundry range, and save with this stylish pack 12kg Series 9 Front Load Washing Machine with Steam+ 9kg Series 9 Heat Pump Dryer with Inverter Control Washing Machine Stacking Kit ",
+        "old_price": 3998.00,
+        "new_price": 3398.00,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": " 16kg/9kg XL Front Load Washer Dryer Combo with Steam+ and Turbo Clean®  ",
+        "image": " /assets/images/may giat/lg4.jpg ",
+        "file": "/assets/file/maygiatLG4.docx",
+        "slug": "san-pham-49",
+        "desc": " LG front load washers with AI Direct Drive technology can weigh the load and assess fabric softness to automatically select the optimal wash motions for thorough cleaning and clothing care. ",
+        "old_price": 2299.00,
+        "new_price": 2099.00,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "LG Side by side Smart Inverter™ GR-B256JDS refrigerator",
+        "image": " /assets/images/tu lanh/tulanh19 LG.png",
+        "file": "/assets/file/tulanh19.docx",
+        "slug": "san-pham-50",
+        "desc": "LG Side by side Smart Inverter™ GR-B256JDS refrigerator belongs to the side by side refrigerator line equipped with Smart Inverter technology to help save energy.",
+        "old_price": 824.33,
+        "new_price": 535.67,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "LG French Door Smart Inverter™ -LINEARCooling™ Refrigerator GR-B53PS",
+        "image": "/assets/images/tu lanh/tulanh20 LG.png",
+        "file": "/assets/file/tulanh20.docx",
+        "slug": "san-pham-51",
+        "desc": "Smart Diagnosis helps save time and repair costs",
+        "old_price": 1154.23,
+        "new_price": 844.95,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "LG Side by side  Smart Inverter™ refrigerator with DoorCooling+™ technology and external water dispenser GR-D257JS",
+        "image": "/assets/images/tu lanh/tulanh21 LG.png",
+        "file": "/assets/file/tulanh21.docx",
+        "slug": "san-pham-52",
+        "desc": "Side by side refrigerator has a capacity of 635 liters, suitable for families of over 5 people",
+        "old_price": 1607.84,
+        "new_price": 1236.70,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": " LG Inverter InstaView Door-in-Door Refrigerator GR-X247MC  ",
+        "image": "/assets/images/tu lanh/tulanh22 LG.png  ",
+        "file": "/assets/file/tulanh22.docx",
+        "slug": "san-pham-53",
+        "desc": " LG Inverter InstaView Door-in-Door Refrigerator GR-X247MC is an extremely special refrigerator line, the product has impressed users with its design of lightly tapping twice on the mirror glass of the refrigerator for easy operation. ",
+        "old_price": 2267.63,
+        "new_price": 1892.37,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": " LG refrigerator with freezer on Inverter Linear™ - DoorCooling+™ technology GN-L702GB  ",
+        "image": " /assets/images/tu lanh/tulanh 23.png ",
+        "file": "/assets/file/tulanh23.docx",
+        "slug": "san-pham-54",
+        "desc": " LG refrigerator with freezer on Inverter Linear™ - DoorCooling+™  technology GN-L702GB is a perfect combination of luxurious design and modern technology. ",
+        "old_price": 649.50,
+        "new_price": 436.70,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "  12/9kg WashTower™ All-In-One Stacked Washer Dryer in Forest Green / Beige ",
+        "image": " /assets/images/may giat/lg2.png ",
+        "file": "/assets/file/maygiatLG2.docx",
+        "slug": "san-pham-55",
+        "desc": " LG refrigerator with freezer on Inverter Linear™ - DoorCooling+™  technology GN-L702GB is a perfect combination of luxurious design and modern technology. ",
+        "old_price": 649.50,
+        "new_price": 436.70,
+        "brand": [
+            {
+                "id": 3,
+                "name": "lg"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "NC-K301SRA super speed kettle",
+        "image": "/assets/images/am/am6.png ",
+        "file": "/assets/file/am6 1.docx",
+        "slug": "san-pham-56",
+        "desc": " Luxurious and durable stainless steel design over time",
+        "old_price": 55.17,
+        "new_price": 42.18,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 1,
+                "name": "electric Kettle"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "name": "NC-K101WRA super speed kettle",
+        "image": "/assets/images/am/am7.jpg ",
+        "file": "/assets/file/am7.docx",
+        "slug": "san-pham-57",
+        "desc": " NC-K101 electric kettle with cylindrical design and main white tone brings modernity to any kitchen. 1.7L capacity provides enough water needed for the whole family's needs.",
+        "old_price": 41.98,
+        "new_price": 31.98,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 1,
+                "name": "electric Kettle"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Desk Lamp NNP61925191",
+        "image": "/assets/images/denhoc/den1.jpg",
+        "file": "/assets/file/den1 1.docx",
+        "slug": "san-pham-58",
+        "desc": "Change 6 levels of brightness from 0% - 100% - meet all lighting needs ",
+        "old_price": 96.09,
+        "new_price": 87.35,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 2,
+                "name": "desk lamp"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Desk Lamp NNP63935191",
+        "image": "/assets/images/denhoc/den2.5.jpg",
+        "file": "/assets/file/den2.docx",
+        "slug": "san-pham-59",
+        "desc": "Uses RG0 LED CHIP - Does not contain harmful blue light.",
+        "old_price": 154.32,
+        "new_price": 134.14,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 2,
+                "name": "desk lamp"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Table Lamp HH-LT0221P19",
+        "image": "/assets/images/denhoc/den3.jpg",
+        "file": "/assets/file/den3.docx",
+        "slug": "san-pham-60",
+        "desc": "Automatically turns off power when there is no water",
+        "old_price": 80.25,
+        "new_price": 61.87,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 2,
+                "name": "desk lamp"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Desk Lamp HHGLT063319",
+        "image": "/assets/images/denhoc/den4.jpg",
+        "file": "/assets/file/den4.docx",
+        "slug": "san-pham-61",
+        "desc": "Uses RG0 LED CHIP - Does not contain harmful blue light",
+        "old_price": 210.1,
+        "new_price": 199.17,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 2,
+                "name": "desk lamp"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "10.5kg/6kg Front-loading Washer Dryer NA-S056FR1BV",
+        "image": "/assets/images/may giat/pa1.png",
+        "file": "/assets/file/maygiatpn1.docx",
+        "slug": "san-pham-62",
+        "desc": "Gentle Drying for Longer-Lasting Clothes",
+        "old_price": 1044.15,
+        "new_price": 949.23,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "name": "11.5kg Smart & Convenient Top Load Washing Machine NA-FD115W3BV",
+        "image": " /assets/images/may giat/pa2.png",
+        "file": "/assets/file/maygiatpana2.docx",
+        "slug": "san-pham-63",
+        "desc": "Smarter Wash, Ideal Detergent Dose",
+        "old_price": 804.49,
+        "new_price": 731.35,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "name": "8.2kg NA-F82Y01DRV Top Load Washing Machine for Extra Clean Result",
+        "image": "/assets/images/may giat/pa3.png",
+        "file": "/assets/file/maygiatpn3.docx",
+        "slug": "san-pham-64",
+        "desc": "Lifts stains away easily with fine foam and dynamic water flow.",
+        "old_price": 316.10,
+        "new_price": 287.36,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Hygiene Wash & Hygiene Dry Assist 10.5kg Front-loading Washing Machine NA-V105FC1LV",
+        "image": "/assets/images/may giat/pa4.png ",
+        "file": "/assets/file/maygiatpn4.docx",
+        "slug": "san-pham-65",
+        "desc": "Improves Hygiene in Your Everyday Laundry",
+        "old_price": 786.40,
+        "new_price": 714.90,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "name": "10kg NA-F10S10BRV Top Load Washing Machine for Extra Clean Result",
+        "image": " /assets/images/may giat/pa5.png",
+        "file": "/assets/file/maygiatpn5.docx",
+        "slug": "san-pham-66",
+        "desc": "Lifts stains away easily with fine foam and dynamic water flow",
+        "old_price": 370.36,
+        "new_price": 336.69,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 3,
+                "name": "washing machine"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Panasonic Inverter Refrigerator NR-BV320WKVN",
+        "image": "/assets/images/tu lanh/tulanh15 pana.png",
+        "file": "/assets/file/tulanh15.docx",
+        "slug": "san-pham-67",
+        "desc": "New generation soft freezer Prime Fresh+",
+        "old_price": 745.98,
+        "new_price": 391.34,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Panasonic Inverter Refrigerator NR-YW590YHHV",
+        "image": "/assets/images/tu lanh/tulanh17 pana.png",
+        "file": "/assets/file/tulanh17.docx",
+        "slug": "san-pham-68",
+        "desc": "Vegetable compartment keeps 90% moisture",
+        "old_price": 2989.28,
+        "new_price": 2597.55,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Electric Fan Stand Fan F-407WGO",
+        "image": " /assets/images/quat/quatpana1.png",
+        "file": "/assets/file/quatpana1.docx",
+        "slug": "san-pham-69",
+        "desc": "Luxurious fan blade and night light design. Strong and quality airflow",
+        "old_price": 115.74,
+        "new_price": 105.24,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 5,
+                "name": "fans"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Electric Fan Stand Fan F-409K",
+        "image": "/assets/images/quat/quatpana2.png",
+        "file": "/assets/file/quatpana2.docx",
+        "slug": "san-pham-70",
+        "desc": "Thin tree fans provide natural and fresh wind",
+        "old_price": 93.09,
+        "new_price": 84.69,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 5,
+                "name": "fans"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Electric Fan Stand Fan F-307KH",
+        "image": "/assets/images/quat/quatpana3.png",
+        "file": "/assets/file/quatpana3.docx",
+        "slug": "san-pham-71",
+        "desc": "Compact tree fan provides natural and fresh wind",
+        "old_price": 140.14,
+        "new_price": 127.44,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 5,
+                "name": "fans"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Electric Fan Stand Fan F-407WGO",
+        "image": "/assets/images/quat/quatpana4 copy.png",
+        "file": "/assets/file/quatpana4.docx",
+        "slug": "san-pham-72",
+        "desc": "Powerful tree fan with natural wind supply",
+        "old_price": 162.8,
+        "new_price": 148,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 5,
+                "name": "fans"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Panasonic Inverter 2 Hp air conditioner CU/CS-VU18UKH-8",
+        "image": "/assets/images/may lanh/mlpn6.png ",
+        "file": "/assets/file/maylanh6.docx",
+        "slug": "san-pham-73",
+        "desc": "Night sleep mode avoids cold",
+        "old_price": 1389.30,
+        "new_price": 1389.30,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Panasonic Inverter 1.5 HP 2-way air conditioner CU/CS-YZ12WKH-8",
+        "image": " /assets/images/may lanh/mlpn7.png",
+        "file": "/assets/file/maylanh7.docx",
+        "slug": "san-pham-74",
+        "desc": "Machine type: 2-way air conditioner",
+        "old_price": 675.88,
+        "new_price": 675.88,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Panasonic Inverter 2 HP 2-way Air Conditioner CU/CS-YZ18XKH-8",
+        "image": "/assets/images/may lanh/mlpn8.png",
+        "file": "/assets/file/maylanh8.docx",
+        "slug": "san-pham-75",
+        "desc": "Cooling capacity: 2 HP - 17,700 BTU",
+        "old_price": 1034.64,
+        "new_price": 1034.64,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Panasonic Refrigerator NR-BL263PAVN",
+        "image": "/assets/images/tu lanh/tulanh13 pana.png",
+        "file": "/assets/file/tulanh13.docx",
+        "slug": "san-pham-76",
+        "desc": "Separate container keeps food hygienic & prevents food odors",
+        "old_price": 358.35,
+        "new_price": 234.64,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Panasonic Inverter refrigerator NR-CW530XMMV",
+        "image": "/assets/images/tu lanh/tulanh14 pana.png",
+        "file": "/assets/file/tulanh14.docx",
+        "slug": "san-pham-77",
+        "desc": "Prime Freeze technology super-speed freezing, 5 times faster than normal",
+        "old_price": 1838.76,
+        "new_price": 1838.76,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Panasonic Inverter 2.5 HP CU/CS-PU24XKH-8M air conditioner",
+        "image": "/assets/images/may lanh/mlpn9.png",
+        "file": "/assets/file/maylanh9.docx",
+        "slug": "san-pham-78",
+        "desc": "Cools 18% faster with Powerfull function",
+        "old_price": 1146.00,
+        "new_price": 1146.00,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Panasonic Inverter 2.5 HP CU/CS-XZ24ZKH-8 2-way air conditioner",
+        "image": "/assets/images/may lanh/mlpn10.png",
+        "file": "/assets/file/maylanh10.docx",
+        "slug": "san-pham-79",
+        "desc": "Dehumidifying function<",
+        "old_price": 1607.84,
+        "new_price": 1607.84,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 6,
+                "name": "air-conditioner"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Panasonic refrigerator NR-BW530XMMV",
+        "image": "/assets/images/tu lanh/tulanh16 pana.png",
+        "file": "/assets/file/tulanh16.docx",
+        "slug": "san-pham-80",
+        "desc": "Inverter technology saves electricity",
+        "old_price": 1422.27,
+        "new_price": 1422.27,
+        "brand": [
+            {
+                "id": 4,
+                "name": "panasonic"
+            }
+        ],
+        "cate": [
+            {
+                "id": 4,
+                "name": "fridge"
+            }
+        ]
+    }
+]

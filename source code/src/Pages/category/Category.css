@@ -1,0 +1,365 @@
+body{
+    font-family: Arial, sans-serif;
+
+}
+ul a {
+    text-decoration: none;
+    font-size: 20px;
+    color:black;
+}
+
+ul li div>a {
+    text-decoration: none;
+    font-size: 20px;
+    color:black;
+    font-weight: bold;
+}
+ul a:hover{
+    text-decoration: none;
+    color: #cdcdcd;
+}
+ul li>a{
+    text-decoration: none;
+    color:black;
+    font-size:15px;
+}
+
+
+/* Phong cách container tổng thể */
+.container-fluid.homeStyler {
+    background-color: #f9f9f9;
+    padding: 30px 0;
+}
+
+.container h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+}
+
+/* Input tìm kiếm */
+.input-group .form-control {
+    border: none;
+    border-radius: 30px;
+    background-color: #e8e8e8;
+    padding: 15px;
+    font-size: 1rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.input-group .form-control:focus {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.input-group-text {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown sắp xếp */
+.bg-light {
+    background-color: #fff !important;
+    border-radius: 30px;
+}
+
+select.form-select-sm {
+    border: none;
+    font-size: 1rem;
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+
+/* Danh mục */
+.furniture-categories {
+    font-size: 1rem;
+    color: #666;
+}
+
+.furniture-categories a {
+    text-decoration: none;
+    color: #333;
+    transition: all 0.3s ease-in-out;
+}
+
+.furniture-categories a:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.furniture-categories .collapse {
+    transition: max-height 0.3s ease-in-out;
+}
+
+.furniture-categories .fas {
+    transition: transform 0.3s ease;
+}
+
+.furniture-categories a[aria-expanded="true"] .fas {
+    transform: rotate(90deg);
+}
+
+/* Bộ lọc thêm */
+#rangeInput {
+    appearance: none;
+    width: 100%;
+    height: 8px;
+    background-color: #ddd;
+    border-radius: 5px;
+    outline: none;
+}
+
+#rangeInput::-webkit-slider-thumb {
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #007bff;
+    cursor: pointer;
+}
+
+/* homeStyler Items */
+.homeStyler-item {
+    border: none;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.homeStyler-item:hover {
+    transform: translateY(-10px);
+}
+
+.homeStyler-img img {
+    border-radius: 12px 12px 0 0;
+}
+
+.homeStyler-item .p-4 {
+    padding: 20px;
+    text-align: center;
+}
+
+.homeStyler-item h4 {
+    font-size: 1.5rem;
+    color: #333;
+    font-weight: bold;
+}
+
+.homeStyler-item p {
+    font-size: 1rem;
+    color: #666;
+}
+
+.homeStyler-item .btn {
+    font-size: 0.9rem;
+    color: #007bff;
+    background-color: #fff;
+    padding: 10px 20px;
+    border-radius: 30px;
+    transition: all 0.3s ease;
+}
+
+.homeStyler-item .btn:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Pagination */
+.pagination a {
+    color: #007bff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 30px;
+    transition: all 0.3s ease;
+}
+
+.pagination a.active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.pagination a:hover {
+    background-color: #0056b3;
+    color: #fff;
+}
+/* Tùy chỉnh thanh kéo */
+input[type="range"].custom-range {
+    -webkit-appearance: none !important; /* Tắt kiểu mặc định */
+    appearance: none !important;
+    width: 100% !important; /* Chiều rộng đầy đủ */
+    height: 12px !important; /* Chiều cao của thanh kéo */
+    background: #ddd !important; /* Màu nền của thanh kéo */
+    border-radius: 10px !important; /* Bo góc của thanh kéo */
+    outline: none !important; /* Bỏ viền khi chọn */
+    opacity: 0.7 !important; /* Độ trong suốt */
+    transition: opacity 0.2s !important;
+  }
+  
+  input[type="range"].custom-range:hover {
+    opacity: 1 !important; /* Khi hover vào, thanh kéo rõ hơn */
+}
+  input[type="range"].custom-range:focus {
+    outline: none ;
+    
+  }
+  /* Nút kéo */
+  input[type="range"].custom-range::-webkit-slider-thumb {
+    -webkit-appearance: none !important; /* Tắt kiểu mặc định */
+    appearance: none !important;
+    width: 50px !important; /* Chiều rộng nút kéo */
+    height: 20px !important; /* Chiều cao nút kéo */
+    background: #767e76 !important; /* Màu nền nút kéo */
+    border-radius: 8px !important; /* Bo góc thành hình tròn */
+    cursor: pointer !important; /* Thay đổi con trỏ khi hover */
+    outline: none !important; /* Bỏ viền khi chọn */
+
+  }
+
+  input[type="range"].custom-range::-moz-range-thumb {
+    width: 24px !important;
+    height: 24px !important;
+    background: #4CAF50 !important;
+    border-radius: 50% !important;
+    cursor: pointer !important;
+  }
+/* sub category */
+.category-header {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    background-color: #f8f9fa;
+  }
+  
+  .subcategory-list {
+    display: none;
+    margin-top: 10px;
+  }
+  
+  .subcategory-list.show {
+    display: block;
+  }
+  
+  .subcategory-list li {
+    margin-bottom: 10px;
+  }
+  
+  .fa-chevron-up, .fa-chevron-down {
+    transition: transform 0.3s;
+  }
+  
+  .category-header .fa-chevron-up {
+    transform: rotate(180deg);
+  }
+      /* Container settings for the entire section */
+.container-fluid.homeStyler {
+    background-color: #f8f9fa; /* Light background */
+  }
+  
+  .homeStyler h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Styling for the category and filter sidebar */
+  .category-header {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+  }
+  
+  .subcategory-list {
+    padding-left: 1.5rem;
+  }
+  
+  .subcategory-list.hide {
+    display: none;
+  }
+  
+  .subcategory-list.show {
+    display: block;
+  }
+  
+  /* Styling for the HomeStyler items */
+  .homeStyler-item {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .homeStyler-item:hover {
+    transform: scale(1.05); /* Slight zoom on hover */
+  }
+  
+  /* Image settings */
+  .homeStyler-img img {
+    width: 100%;
+    height: 250px; /* Fixed height for uniformity */
+    object-fit: cover; /* Makes sure images cover the entire area */
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+  
+  /* Content and text styling */
+  .homeStyler-item h4 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .homeStyler-item p {
+    color: #555;
+    margin: 0.5rem 0;
+  }
+  
+  .homeStyler-item .fs-5 {
+    color: #333;
+  }
+  
+  /* Button styling for "Buy Now" */
+  .homeStyler-item .btn {
+    color: #007bff;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .homeStyler-item .btn:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .homeStyler-item .btn i {
+    margin-right: 5px;
+  }
+  .homeStyler-item {
+    overflow: hidden; /* Prevents overflow of images */
+    height: 550px; /* Set a fixed height for each item */
+    display: flex;
+    flex-direction: column; /* Stacks the elements vertically */
+  }
+  
+  .homeStyler-img {
+    flex: 1; /* Allows the image container to grow */
+    display: flex;
+    align-items: center; /* Centers image vertically */
+    justify-content: center; /* Centers image horizontally */
+  }
+  
+  .homeStyler-img img {
+    max-height: 100%; /* Ensures the image doesn't exceed the container's height */
+    object-fit: cover; /* Maintains aspect ratio and covers the area */
+    width: auto; /* Keeps the width auto for aspect ratio */
+  }
+  
+  .p-4 {
+    flex-shrink: 0; /* Prevents the text area from shrinking */
+  }
+  

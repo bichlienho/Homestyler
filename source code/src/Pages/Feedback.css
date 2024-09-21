@@ -1,0 +1,59 @@
+.feedback-container {
+    max-width: 1500px; /* Kích thước tối đa của container */
+    margin: auto; /* Căn giữa container */
+    padding: 20px; /* Thêm khoảng cách bên trong */
+    background-color: #f9f9f9; /* Màu nền nhẹ cho container */
+    border-radius: 8px; /* Bo tròn các góc */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Đổ bóng cho container */
+}
+
+.feedback-title {
+    font-size: 2rem; /* Kích thước tiêu đề lớn hơn */
+    margin-bottom: 20px; /* Khoảng cách dưới tiêu đề */
+}
+
+.feedback-form {
+    display: flex; /* Sử dụng flexbox để sắp xếp các phần tử */
+    flex-direction: column; /* Sắp xếp theo cột */
+}
+
+.form-group {
+    margin-bottom: 15px; /* Khoảng cách giữa các nhóm form */
+}
+
+label {
+    font-size: 1.2rem; /* Kích thước chữ cho label lớn hơn */
+    margin-bottom: 5px; /* Khoảng cách dưới label */
+}
+
+input, textarea {
+    padding: 10px; /* Thêm khoảng cách bên trong cho các input và textarea */
+    font-size: 1rem; /* Kích thước chữ trong input và textarea */
+    border: 1px solid #ccc; /* Đường viền cho input và textarea */
+    border-radius: 4px; /* Bo tròn các góc của input và textarea */
+    width: 100%; /* Chiều rộng 100% */
+}
+
+textarea {
+    min-height: 100px; /* Chiều cao tối thiểu cho textarea */
+}
+
+.btn-submit {
+    padding: 10px 20px; /* Thêm khoảng cách bên trong cho nút */
+    font-size: 1.2rem; /* Kích thước chữ lớn hơn cho nút */
+    background-color: #007bff; /* Màu nền cho nút */
+    color: white; /* Màu chữ trắng */
+    border: none; /* Không có đường viền */
+    border-radius: 4px; /* Bo tròn các góc */
+    cursor: pointer; /* Con trỏ chuột thành hình bàn tay khi hover */
+}
+
+.btn-submit:hover {
+    background-color: #0056b3; /* Thay đổi màu khi hover */
+}
+
+.thank-you-message {
+    font-size: 1.5rem; /* Kích thước chữ lớn hơn cho thông báo cảm ơn */
+    color: green; /* Màu chữ cho thông báo cảm ơn */
+    margin-top: 20px; /* Khoảng cách trên thông báo cảm ơn */
+}
