@@ -17,10 +17,10 @@
 
  HomeStyler will be an intuitive, flexible and responsive website dedicated to home interior design enthusiasts. The platform will help users easily visualize and choose suitable interior decoration products and ideas. The website will provide a diverse range of products and room designs to meet the different needs and preferences of users. In addition, the profiles of professional interior designers will also be introduced, providing users with a variety of quality consulting options.
   <br  />
-  <a  href="https://(https://github.com/bichlienho/Homestyler)"><strong>Explore the source »</strong></a>
-  <a  href="https://(https://github.com/bichlienho/Homestyler)" target="_blank"><strong>Explore the documents »</strong></a>
+  <a  href="https://github.com/bichlienho/Homestyler"><strong>Explore the source »</strong></a>
+  <a  href="https://github.com/bichlienho/Homestyler/tree/main/document/Homestyler" target="_blank"><strong>Explore the documents »</strong></a>
 
-  <br  /><a  href="https://e-project-fpt-apteach-group1-electric.vercel.app/" target="_blank">view demo</a>
+  <br  />
   <a  href="https://youtu.be/JTY0b6oepK0" target="_blank">Video</a>
 
 
