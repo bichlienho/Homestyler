@@ -20,7 +20,7 @@
   <a  href="https://github.com/bichlienho/Homestyler"><strong>Explore the source »</strong></a>
   <a  href="https://github.com/bichlienho/Homestyler/tree/main/document/Homestyler" target="_blank"><strong>Explore the documents »</strong></a>
 
-  <br  />
+  <br  /><a  href="https://e-project-fpt-apteach-group1-electric.vercel.app/" target="_blank">view demo</a>
   <a  href="https://youtu.be/JTY0b6oepK0" target="_blank">Video</a>
 
 
