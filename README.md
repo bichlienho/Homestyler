@@ -11,7 +11,7 @@ HomeStyler will be an intuitive, flexible and responsive website dedicated to ho
 <a  href="https://github.com/bichlienho/Homestyler"><strong>Explore the source »</strong></a>
 <a  href="https://github.com/bichlienho/Homestyler/tree/main/document" target="_blank"><strong>Explore the documents »</strong></a>
 <br  /><a  href="https://www.youtube.com/watch?v=HIybXUcAl6E&lc=UgwJd89yk96UBmEiysN4AaABAg" target="_blank">Video</a>
-<br/> <a href=" https://homestyler-livid.vercel.app/" target="_blank"></a>
+<br/> <a href=" https://homestyler-livid.vercel.app/" target="_blank">view demo</a>
 
   ### Built With
   Below is the languages/libraries we used for this project:
@@ -53,10 +53,8 @@ applicable.</br>
 Tran Thi Thao `Student1501286` </br>
 Vo Hoang Khai `Student 1501207` </br>
 Nguyen Lam Chi Nguyen `Student1501858` </br>
-
 Pham Huu Nam Anh `Student1501062`<br/>
 
-Pham Huu Nam Anh `Student1501062`<br/>
 
  
 
