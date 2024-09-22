@@ -12,7 +12,7 @@ HomeStyler will be an intuitive, flexible and responsive website dedicated to ho
 <a  href="https://github.com/bichlienho/Homestyler/tree/main/document" target="_blank"><strong>Explore the documents »</strong></a>
 <br  /><a  href="https://www.youtube.com/watch?v=HIybXUcAl6E&lc=UgwJd89yk96UBmEiysN4AaABAg" target="_blank">Video</a>
 <a  href=" https://homestyler-livid.vercel.app/" target="_blank" ><strong>view demo »</strong></a>
-<link href="[text](https://homestyler-livid.vercel.app/)"></link>
+<a href="https://homestyler-livid.vercel.app/">view demo</a>
 
 
   ### Built With
