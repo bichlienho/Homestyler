@@ -1,0 +1,15 @@
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Adjust as needed */
+}
+
+#contactForm {
+  width: 100%; /* Optional: Set a max width if needed */
+  max-width: 400px; /* Adjust to your preferred width */
+  padding: 20px;
+  border: 1px solid #ccc; /* Optional: Add a border */
+  border-radius: 5px; /* Optional: Add rounded corners */
+  background-color: #fff; /* Optional: Set background color */
+}

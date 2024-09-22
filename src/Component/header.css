@@ -1,0 +1,61 @@
+/* Container for the header */
+.header-container {
+    background-color: #ffffff; /* Light gray background */
+    border-bottom: 1px solid #eaeaea; /* Subtle border for separation */
+  }
+  
+  /* Logo styles */
+  .navbar-brand img {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Hover effect for the logo */
+  .navbar-brand img:hover {
+    transform: scale(1.50); /* Slight enlargement on hover */
+  }
+  
+  /* Search bar styling */
+  .search-input {
+    border-radius: 20px; /* Rounded corners */
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .input-group-text {
+    border: none;
+    background: #007bff; /* Primary color for the search icon */
+    color: #fff;
+    border-radius: 0 20px 20px 0; /* Rounded end for the icon */
+  }
+  
+  .input-group-text i {
+    font-size: 1.2rem;
+  }
+  
+  /* Cart icon styles */
+  .cart-icon {
+    position: relative;
+    color: #007bff; /* Primary color for the cart icon */
+    padding: 10px 15px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .cart-icon:hover {
+    background-color: #f8f9fa; /* Hover background color */
+    border-color: #007bff;
+  }
+  
+  .cart-icon i {
+    font-size: 1.5rem; /* Increase icon size */
+  }
+  
+  .badge-pill {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background-color: #007bff;
+    color: white;
+    font-size: 0.8rem;
+    padding: 5px 10px;
+  }
+  

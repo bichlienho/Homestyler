@@ -1,0 +1,141 @@
+footer {
+	background-color: #a4b0fc; /* Set background color */
+	overflow: hidden;
+	color: white; /* Set text color to white */
+}
+
+footer a {
+	color: white; /* Make all links white */
+}
+
+footer a:hover {
+	color: #ddd; /* Lighter gray color on hover */
+}
+
+footer .border-top {
+	border-color: #ccc;
+}
+
+.footer_dark {
+	background-color: #b82160;
+	position: relative;
+}
+
+.footer_dark,
+.footer_dark p,
+.footer_dark a,
+.footer_dark .widget_title,
+.footer_dark .widget_links li a,
+.footer_dark .footer_link li a {
+	color: white !important; /* Ensure all text and links are white */
+}
+
+.footer_dark a:hover,
+.footer_dark .widget_links li a:hover,
+.footer_dark .footer_link li a:hover {
+	color: #FF324D; /* Change hover effect for better visibility */
+}
+
+.footer_top {
+	padding: 100px 0 70px;
+}
+
+.footer_logo {
+	margin-bottom: 20px;
+	width: 20%;
+}
+
+footer p {
+	font-size: 14px;
+	color: white; /* Set paragraph text to white */
+}
+
+footer .widget {
+	margin-bottom: 30px;
+}
+
+footer .widget_title {
+	text-transform: capitalize;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	font-size: 18px;
+	color: white; /* Widget title color */
+}
+
+.widget_links li {
+	list-style: none;
+	padding-bottom: 10px;
+}
+
+.widget_links li:last-child {
+	padding-bottom: 0;
+}
+
+.widget_links li a {
+	font-size: 14px;
+	color: white; /* Useful links text color */
+}
+
+.contact_info > li {
+	margin-bottom: 15px;
+	list-style: none;
+	color: white; /* Contact info text color */
+}
+
+.contact_info > li:last-child {
+	margin-bottom: 0px;
+}
+
+.contact_info li i {
+	display: inline-block;
+	margin-right: 10px;
+	margin-top: 4px;
+	font-size: 18px;
+	vertical-align: top;
+	color: white; /* Contact info icons color */
+}
+
+.contact_info li span {
+	float: left;
+	margin-right: 10px;
+	max-width: 70px;
+	width: 100%;
+	color: white; /* Contact info span text color */
+}
+
+.bottom_footer {
+	padding: 30px 0;
+	position: relative;
+	color: white; /* Footer bottom text color */
+}
+
+.footer_link li {
+	display: inline-block;
+	position: relative;
+}
+
+.footer_link li a {
+	font-size: 14px;
+	padding: 0 5px;
+	color: white; /* Footer link text color */
+}
+
+.widget_contact_form {
+	background-color: #0f0f0f;
+	padding: 20px 30px 30px;
+	margin-top: -190px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+	color: white; /* Form text color */
+}
+
+.bottom_footer .social_icons li {
+	padding-bottom: 0;
+	color: white; /* Social icon text color */
+}
+
+.footer_payment li,
+.app_list li {
+	display: inline-block;
+	list-style: none;
+	color: white; /* Payment methods text color */
+}

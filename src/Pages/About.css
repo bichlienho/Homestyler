@@ -1,0 +1,94 @@
+/* General body styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.8;
+    color: #333;
+  }
+  
+  /* Breadcrumb Section */
+  .breadcrumb_section {
+    padding: 60px 0;
+    background-color: #f7f7f7;
+    position: relative;
+  }
+  
+  .breadcrumb_section .page-title h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  .breadcrumb_section img {
+    border-radius: 15px;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  }
+  
+  .breadcrumb_section img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* About Section */
+  .section {
+    padding: 60px 0;
+  }
+  
+  .term_conditions h5 {
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.8;
+    color: #555;
+    text-align: justify;
+  }
+  
+  .term_conditions hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 20px 0;
+  }
+  
+  .term_conditions h5:hover {
+    color: #007bff;
+    transition: color 0.3s ease;
+  }
+  
+  /* Image Hover Effects */
+  .section img {
+    border-radius: 15px;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  }
+  
+  .section img:hover {
+    transform: scale(1.08);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    transition: all 0.4s ease;
+  }
+  
+  /* Hover effect for containers */
+  .col-4 {
+    transition: all 0.4s ease;
+  }
+  
+  .col-4:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 768px) {
+    .breadcrumb_section img {
+      height: auto;
+    }
+  
+    .breadcrumb_section .page-title h1 {
+      font-size: 2rem;
+    }
+  
+    .section img {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
