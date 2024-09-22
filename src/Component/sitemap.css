@@ -1,0 +1,20 @@
+.container-fluid {
+    padding: 20px 0;
+}
+
+.row {
+    justify-content: center;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Add rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+@media (max-width: 768px) {
+    .img-fluid {
+        max-width: 80%; /* Adjust image size for smaller screens */
+    }
+}

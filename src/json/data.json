@@ -1,0 +1,1300 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Furniture",
+      "subcategories": [
+        {
+          "name": "Sofas and Lounges",
+          "items": [
+            {
+              "id": 1,
+              "name": "Sofas and Lounges ",
+              "file": "/assets/file/bed1.docx",
+              "description": "A bed should be a perfect piece to end your day with",
+              "imageUrl": "/assets/images/funiture/sofa/1.png",
+              "rating": 4.9,
+              "location": "Hanoi, Vietnam",
+              "price": "$1668,76",
+              "availability": "Available",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 2,
+              "name": "Sofas and Lounges.",
+              "file": "/assets/file/bed2.docx",
+              "description": "A bed should be a perfect piece to end your day with",
+              "imageUrl": "/assets/images/funiture/sofa/2.jpg",
+              "rating": 4.7,
+              "location": "Hanoi, Vietnam",
+              "price": "$1721,09",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 3,
+              "name": "Sofas and Lounges ",
+              "file": "/assets/file/bed3.docx",
+              "description": "Designed with a full foam and down padding frame",
+              "imageUrl": "/assets/images/funiture/sofa/3.png",
+              "rating": 4.7,
+              "location": "Hanoi, Vietnam",
+              "price": "$1668,42",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 4,
+              "name": "Sofas and Lounges",
+              "file": "/assets/file/sofa4.docx",
+              "description": "Creating a chic yet elegant living space with solid form and soft curves meld in this Wave sofa",
+              "imageUrl": "/assets/images/funiture/sofa/4.jpg",
+              "rating": 4.5,
+              "location": "Hanoi, Vietnam",
+              "price": "$11.054,04",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 5,
+              "name": "Sofas and Lounges",
+              "file": "/assets/file/sofa5.docx",
+              "description": "Creating a chic yet elegant living space with solid form and soft curves meld in this Wave sofa. .",
+              "imageUrl": "/assets/images/funiture/sofa/5.png",
+              "rating": 4.7,
+              "location": "Hanoi, Vietnam",
+              "price": "$1997,28",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+
+
+        {
+          "name": "Chairs and Recliners",
+          "items": [
+            {
+              "id": 6,
+              "name": "Chairs and Recliners",
+              "file": "/assets/file/Chairs1.docx",
+              "description": "A streamlined chair model, focus on comfort for a gently curved seat cushion.",
+              "imageUrl": "/assets/images/funiture/Chairs/1.png",
+              "rating": 4.6,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1105,38 ",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 7,
+              "name": "Chairs and Recliners",
+              "file": "/assets/file/Chairs2.docx",
+              "description": "Featuring graceful curves, with armrest will embrace you into its comfy seat.",
+              "imageUrl": "/assets/images/funiture/Chairs/2.png",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1275,67",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 8,
+              "name": "Chairs and Recliners",
+              "file": "/assets/file/Chairs3.docx",
+              "description": "Compact yet design combined with contemporary and diverse colors.",
+              "imageUrl": "/assets/images/funiture/Chairs/3.png",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$172,97",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 9,
+              "name": "Chairs and Recliners",
+              "file": "/assets/file/Recliners1.docx",
+              "description": "There's nothing more relax than an armchair that makes you feel relaxed . ",
+              "imageUrl": "/assets/images/funiture/Recliners/1.png",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1320,29",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 10,
+              "name": "Chairs and Recliners",
+              "file": "/assets/file/Recliners2.docx",
+              "description": "Amchair that couldn't be comfortable with the entire seat designed to recline.",
+              "imageUrl": "/assets/images/funiture/Recliners/2.png",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1304,07",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 11,
+              "name": "Chairs and Recliners",
+              "file": "/assets/file/Recliners3.docx",
+              "description": "The simple yet voluminous shape and low combination that makes armchair",
+              "imageUrl": "/assets/images/funiture/Recliners/3.png",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$11.256,84 ",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            }
+          ]
+        },
+        {
+          "name": "Tables",
+          "items": [
+            {
+              "id": 12,
+              "name": "Tables",
+              "file": "/assets/file/table1.docx",
+              "description": "Designed with a hidden drawer, the CAP coffee table keeps your essential things.",
+              "imageUrl": "/assets/images/funiture/table/1.jpg",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1332,45",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 13,
+              "name": "Tables",
+              "file": "/assets/file/table2.docx",
+              "description": "Our Mun table collection offers 04 different sizes to help you diversify your using.",
+              "imageUrl": "/assets/images/funiture/table/2.png",
+              "rating": 4.0,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1170,28",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 14,
+              "name": "Tables",
+              "file": "/assets/file/table3.docx",
+              "description": "Inspired by volumetric designs, the Bold table collection is crafted with.",
+              "imageUrl": "/assets/images/funiture/table/3.png",
+              "rating": 4.6,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1259,97",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            }
+          ]
+        },
+        {
+          "name": "Beds and Mattresses",
+          "items": [
+            {
+              "id": 15,
+              "name": "Beds and Mattresses",
+              "file": "/assets/file/bed1.docx",
+              "description": "A bed should be a perfect piece to end your day.",
+              "imageUrl": "/assets/images/funiture/bed/1.png",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1668,76",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 16,
+              "name": "Beds and Mattresses",
+              "file": "/assets/file/bed2.docx",
+              "description": "A bed should be a perfect piece to end your day .",
+              "imageUrl": "/assets/images/funiture/bed/2.jpg",
+              "rating": 4.8,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1721,09",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 17,
+              "name": "Beds and Mattresses",
+              "file": "/assets/file/bed3.docx",
+              "description": "Designed with a full foam and down padding frame",
+              "imageUrl": "/assets/images/funiture/bed/3.png",
+              "rating": 4.1,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1668,42",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 18,
+              "name": "Beds and Mattresses",
+              "file": "/assets/file/Mattresses1.docx",
+              "description": "Stains should be wiped off and dried quickly.",
+              "imageUrl": "/assets/images/funiture/Mattresses/1.jpg",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1167.28 ",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 19,
+              "name": "Beds and Mattresses",
+              "file": "/assets/file/Mattresses2.docx",
+              "description": "Expertly crafted, this memory foam hybrid mattress combines all the ingredients.",
+              "imageUrl": "/assets/images/funiture/Mattresses/2.jpg",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1629.00",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 20,
+              "name": "Beds and Mattresses",
+              "file": "/assets/file/Mattresses3.docx",
+              "description": "Finished with two additional foam layers on either side, they work together for.",
+              "imageUrl": "/assets/images/funiture/Mattresses/3.jpg",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1379.00",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            }
+          ]
+        },
+        {
+          "name": "Storage",
+          "items": [
+            {
+              "id": 21,
+              "name": "Storage",
+              "file": "/assets/file/shelf1.docx",
+              "description": "Inspired by the rubik's cube, covered with a black powder coating, the Rubik shelf has...",
+              "imageUrl": "/assets/images/funiture/shelf/1.png",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1218,91",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 22,
+              "name": "Storage",
+              "file": "/assets/file/shelf2.docx",
+              "description": "Small in size, wide in knowledge is what to describe...",
+              "imageUrl": "/assets/images/funiture/shelf/2.png",
+              "rating": 4.3,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1182,41",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 23,
+              "name": "Storage",
+              "file": "/assets/file/Couches2.docx",
+              "description": "A modern recliner chair.",
+              "imageUrl": "/assets/images/funiture/shelf/3.png",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1320",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            },
+            {
+              "id": 24,
+              "name": "Storage",
+              "file": "/assets/file/Couches3.docx",
+              "description": "A modern recliner chair.",
+              "imageUrl": "/assets/images/funiture/shelf/4.jpg",
+              "rating": 4.5,
+              "location": "Ho Chi Minh, Vietnam",
+              "price": "$1320",
+              "availability": "Booked",
+              "categoryType": "Contemporary Styles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Lighting",
+      "subcategories": [
+        {
+          "name": "Ceiling Lights",
+          "items": [
+            {
+              "id": 25,
+              "name": "Ceiling Light",
+              "file": "/assets/file/fileceil/light1.docx",
+              "description": "Modern Chandelier CCH-3743-15, a symbol of luxury and class.",
+              "imageUrl": "/assets/images/Lighting/Ceiling Lights/1.jpg",
+              "rating": 4.9,
+              "location": "Da Nang, Vietnam",
+              "price": "$1123.91",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 26,
+              "name": "Ceiling Light",
+              "file": "/assets/file/fileceil/light2.docx",
+              "description": "In the world of interior decoration lamps",
+              "imageUrl": "/assets/images/Lighting/Ceiling Lights/2.jpg",
+              "rating": 5.0,
+              "location": "Da Nang, Vietnam",
+              "price": "$1550",
+              "availability": "Available",
+              "categoryType": "Contemporary Styles"
+
+            }
+          ]
+        },
+        {
+          "name": "Floor Lamps",
+          "items": [
+            {
+              "id": 27,
+              "name": "Floor Lamps",
+              "file": "/assets/file/Floor Lamps1.docx",
+              "description": "living room decoration, bedroom, interior decoration,....",
+              "imageUrl": "/assets/images/Lighting/Floor Lamps/1.jpg",
+              "rating": 4.9,
+              "location": "Da Nang, Vietnam",
+              "price": "$1224.35",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 28,
+              "name": "Floor Lamps",
+              "file": "/assets/file/Floor Lamps2.docx",
+              "description": "LED or incandescent (can be easily purchased on the market).",
+              "imageUrl": "/assets/images/Lighting/Floor Lamps/2.jpg",
+              "rating": 4.9,
+              "location": "Da Nang, Vietnam",
+              "price": "$199.33",
+              "availability": "Available",
+              "categoryType": "Contemporary Styless"
+
+            }
+          ]
+        },
+        {
+          "name": "Outdoor Lighting",
+          "items": [
+            {
+              "id": 29,
+              "name": "Outdoor Lighting",
+              "file": "/assets/file/Outdoor Lighting1.docx",
+              "description": ": used as decorative lights for bedrooms, living rooms, bathrooms, hallways, ",
+              "imageUrl": "/assets/images/Lighting/Outdoor Lighting/1.jpg",
+              "rating": 4.9,
+              "location": "Da Nang, Vietnam",
+              "price": "$152.14",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 30,
+              "name": "Outdoor Lighting",
+              "file": "/assets/file/Outdoor Lighting2.docx",
+              "description": "used as decorative lights for bedrooms, living rooms, bathrooms, hallways,",
+              "imageUrl": "/assets/images/Lighting/Outdoor Lighting/2.jpg",
+              "rating": 4.9,
+              "location": "Da Nang, Vietnam",
+              "price": "$178",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            }
+          ]
+        },  
+          {
+          "name": "Table Lamps",
+          "items": [
+            {
+              "id": 31,
+              "name": "Table Lamps",
+              "file": "/assets/file/Table Lamps1.docx",
+              "description": "LED or incandescent (can be easily purchased on the market).",
+              "imageUrl": "/assets/images/Lighting/Table Lamps/1.jpg",
+              "rating": 4.9,
+              "location": "Da Nang, Vietnam",
+              "price": "$126,40",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 32,
+              "name": "Table Lamps",
+              "file": "/assets/file/Table Lamps2.docx",
+              "description": "lamp body made of natural stone, fabric shade.",
+              "imageUrl": "/assets/images/Lighting/Table Lamps/2.jpg",
+              "rating": 4.9,
+              "location": "Da Nang, Vietnam",
+              "price": "$1106.25",
+              "availability": "Available",
+              "categoryType": "Contemporary Styless"
+
+            }
+          ]
+        },
+        {
+          "name": "Wall light",
+          "items": [
+            {
+              "id": 33,
+              "name": "wall light",
+              "file": "/assets/file/wall1.docx",
+              "description": "Welcome to the perfect combination of class and sophistication - Modern Wall Lamp DDT-2646V.",
+              "imageUrl": "/assets/images/Lighting/wall light/3.jpg",
+              "rating": 5.0,
+              "location": "Da Nang, Vietnam",
+              "price": "$1509",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 34,
+              "name": "wall light",
+              "file": "/assets/file/wall2.docx",
+              "description": "Welcome to the perfect combination of class and sophistication - Modern Wall Lamp DDT-2646V",
+              "imageUrl": "/assets/images/Lighting/wall light/4.jpg",
+              "rating": 4.2,
+              "location": "Da Nang, Vietnam",
+              "price": "$1950",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Decor",
+      "subcategories": [
+             {
+          "name": "Rugs and Carpets",
+          "items": [
+            {
+              "id": 35,
+              "name": "Rugs and Carpets",
+              "file": "/assets/file/Carpets1.docx",
+              "description": "BLOOMBELL Prussian Hand Tufted, 100% Botanical Silk",
+              "imageUrl": "/assets/images/Decor/Carpets/1.jpg",
+              "rating": 4.6,
+              "location": "Hue, Vietnam",
+              "price": "$12,430.00 ",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 36,
+              "name": "Rugs and Carpets",
+              "file": "/assets/file/Carpets2.docx",
+              "description": "Hand Knotted, Wool & Bamboo Silk",
+              "imageUrl": "/assets/images/Decor/Carpets/2.jpg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$14,945.00",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 37,
+              "name": "Rugs and Carpets",
+              "file": "/assets/file/rug1.docx",
+              "description": "A premium thick heavy rug the luxury Palace collection weighs 5kg per m2 which feels super soft underfoot",
+              "imageUrl": "/assets/images/Decor/Rugs/1.jpg",
+              "rating": 4.0,
+              "location": "Hue, Vietnam",
+              "price": "$1255",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 38,
+              "name": "Rugs and Carpets",
+              "file": "/assets/file/rug2.docx",
+              "description": "Our Soft range is inspired by the endless spheres of the sky and the galaxy, with shades of white  ",
+              "imageUrl": "/assets/images/Decor/Rugs/2.jpg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$1225",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+        {
+          "name": "Blinds",
+          "items": [
+            {
+              "id": 39,
+              "name": "Blinds",
+              "file": "/assets/file/Blinds1.docx",
+              "description": "Designed to look like real wood, Bali Composite and Faux Wood Blinds offer timeless beauty on a budget.",
+              "imageUrl": "/assets/images/Decor/Blinds/1.jpeg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$1987",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 40,
+              "name": "Blinds",
+              "file": "/assets/file/Blinds2.docx",
+              "description": "Feel like you're outside—even when you're not—with the relaxed, natural beauty of Bali Wood Blinds",
+              "imageUrl": "/assets/images/Decor/Blinds/2.jpeg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$11456",
+              "availability": "Available",
+              "categoryType": "Contemporary Styless"
+            }
+          ]
+        },
+        {
+          "name": "Curtains",
+          "items": [
+            {
+              "id": 41,
+              "name": "Curtains",
+              "file": "/assets/file/Curtains1.docx",
+              "description": "Home Curtains offer hundreds of ready made curtains in a huge variety of different fabrics, designs and colours,.",
+              "imageUrl": "/assets/images/Decor/Curtains/1.jpg",
+              "rating": 4.5,
+              "location": "Hue, Vietnam",
+              "price": "$11120.00",
+              "availability": "Available",
+              "categoryType": "Contemporary Styless"
+            },
+            {
+              "id": 42,
+              "name": "Curtains",
+              "file": "/assets/file/Curtains2.docx",
+              "description": "Soft touch matte velour, with marble effect metallic detail, designed with a thick wadded thermal lining to keep the heat in and the cold out.",
+              "imageUrl": "/assets/images/Decor/Curtains/2.jpg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$12013.00",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+        {
+          "name": "Cushions",
+          "items": [
+            {
+              "id": 43,
+              "name": "Cushions",
+              "file": "/assets/file/Cushions1.docx",
+              "description": "Custom Bench Cushion, Chair Cushions, Indoor Furniture Cushion, Personalized Cushions",
+              "imageUrl": "/assets/images/Decor/Cushions/1.jpg",
+              "rating": 4.5,
+              "location": "Hue, Vietnam",
+              "price": "$113",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 44,
+              "name": "Cushions",
+              "file": "/assets/file/Cushions2.docx",
+              "description": "Pillow Perfect Monti Chino Solid ",
+              "imageUrl": "/assets/images/Decor/Cushions/2.jpg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$115",
+              "availability": "Available",
+              "categoryType": "Contemporary Styless"
+            }
+          ]
+        },
+        {
+          "name": "Mirrors",
+          "items": [
+            {
+              "id": 45,
+              "name": "Mirrors",
+              "file": "/assets/file/Mirrors1.docx",
+              "description": "Fabuday Black Circle Mirror for Wall 20 inch - Round Mirror for Bathroom...",
+              "imageUrl": "/assets/images/Decor/mirros/1.jpg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$169.9",
+              "availability": "Available",
+              "categoryType": "Contemporary Styless"
+            },
+            {
+              "id": 46,
+              "name": "Mirrors",
+              "file": "/assets/file/Mirrors2.docx",
+              "description": "SONGMICS Round Mirror, Bathroom Mirror for Wall, 24 Inches, Metal Frame, Easy to Install...",
+              "imageUrl": "/assets/images/Decor/mirros/2.jpg",
+              "rating": 4.7,
+              "location": "Hue, Vietnam",
+              "price": "$138",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+        {
+          "name": "Plant Pots",
+          "items": [
+            {
+              "id": 47,
+              "name": "Plant Pots",
+              "file": "/assets/file/Plant Pots1.docx",
+              "description": "VECELO Metal Plant Stands Set of 5, Multiple Heavy Duty Flower Pot Stand, Round Plant Holder, Black",
+              "imageUrl": "/assets/images/Decor/Plant Pots/1.jpg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$130",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 48,
+              "name": "Plant Pots",
+              "file": "/assets/file/Plant Pots2.docx",
+              "description": "Kate and Laurel Fields Modern Tri Level Plant Stand, White and Gold, 10 x 10 x 30...",
+              "imageUrl": "/assets/images/Decor/Plant Pots/2.jpg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$1103",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+        {
+          "name": "Throws",
+          "items": [
+            {
+              "id": 49,
+              "name": "Throws",
+              "file": "/assets/file/Throws1.docx",
+              "description": "Madison Park Zuri Soft Plush Luxury Oversized Faux Fur Throw Animal Stripes Design, Faux Mink On The Reverse",
+              "imageUrl": "/assets/images/Decor/Throws/1.jpg",
+              "rating": 5.0,
+              "location": "Hue, Vietnam",
+              "price": "$119",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 50,
+              "name": "Throws",
+              "file": "/assets/file/Throws2.docx",
+              "description": "Madison Park Zuri Soft Plush Luxury Oversized Faux Fur Throw Animal Stripes Design, Faux Mink On The Reverse",
+              "imageUrl": "/assets/images/Decor/Throws/2.jpg",
+              "rating": 4.9,
+              "location": "Hue, Vietnam",
+              "price": "$145",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+        {
+          "name": "Vases",
+          "items": [
+            {
+              "id": 51,
+              "name": "Vases",
+              "file": "/assets/file/Vases1.docx",
+              "description": "FANTESTICRYAN Modern Glass Vase Irised Crystal Clear Glass Vase for Home ..",
+              "imageUrl": "/assets/images/Decor/Vases/1.jpg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$115",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 52,
+              "name": "Vases",
+              "file": "/assets/file/Vases2.docx",
+              "description": "Gold Modern Flower Vases for Centerpieces Hewory 8.5inch Glass...",
+              "imageUrl": "/assets/images/Decor/Vases/2.jpg",
+              "rating": 4.1,
+              "location": "Hue, Vietnam",
+              "price": "$119",
+              "availability": "Available",
+              "categoryType": "Contemporary Styless"
+            }
+          ]
+        },
+        {
+          "name": "Wall Art",
+          "items": [
+            {
+              "id": 53,
+              "name": "Wall Art",
+              "file": "/assets/file/Wall Art1.docx",
+              "description": "Top quality non-woven wallpaper, easy to apply to any wall...",
+              "imageUrl": "/assets/images/Decor/Wall Art/1.jpg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$134.95",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 54,
+              "name": "Wall Art",
+              "file": "/assets/file/Wall Art2.docx",
+              "description": "Top quality non-woven wallpaper, easy to apply to any wall...",
+              "imageUrl": "/assets/images/Decor/Wall Art/2.jpg",
+              "rating": 4.8,
+              "location": "Hue, Vietnam",
+              "price": "$119.95",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Kitchen",
+      "subcategories": [
+        {
+          "name": "Backsplashes",
+          "items": [
+            {
+              "id": 55,
+              "name": "Backsplashes",
+              "file": "/assets/file/Backsplashes1.docx",
+              "description": "RoomMates TIL4623FLT StickTiles White Tin Peel and Stick ... ",
+              "imageUrl": "/assets/images/kitchen/Backsplashes/1.jpg",
+              "rating": 4.0,
+              "location": "Nha Trang, Vietnam",
+              "price": "$113",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 56,
+              "name": "Backsplashes",
+              "file": "/assets/file/Backsplashes2.docx",
+              "description": "RoomMates TIL4279FLT StickTiles Spanish Terracotta Peel and ...",
+              "imageUrl": "/assets/images/kitchen/Backsplashes/2.jpg",
+              "rating": 4.3,
+              "location": "Nha Trang, Vietnam",
+              "price": "$113",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+        {
+          "name": "Cabinets",
+          "items": [
+            {
+              "id": 57,
+              "name": "Cabinets",
+              "file": "/assets/file/Cabinets1.docx",
+              "description": "GAOMON Coffee Bar Cabinet, Modern Farmhouse Buffet Cabinet ...",
+              "imageUrl": "/assets/images/kitchen/Cabinets/1.jpg",
+              "rating": 4.3,
+              "location": "Nha Trang, Vietnam",
+              "price": "$1147",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 58,
+              "name": "Cabinets",
+              "file": "/assets/file/Cabinets2.docx",
+              "description": "GAOMON Farmhouse Sideboard Buffet Cabinet,Coffee ...",
+              "imageUrl": "/assets/images/kitchen/Cabinets/2.jpg",
+              "rating": 4.3,
+              "location": "Nha Trang, Vietnam",
+              "price": "$1222",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+        {
+          "name": "Carts",
+          "items": [
+            {
+              "id": 59,
+              "name": "Carts",
+              "file": "/assets/file/Carts1.docx",
+              "description": "VASAGLE Kitchen Serving Cart with Removable Tray...",
+              "imageUrl": "/assets/images/kitchen/Carts/1.jpg",
+              "rating": 4.3,
+              "location": "Nha Trang, Vietnam",
+              "price": "$168",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 60,
+              "name": "Carts",
+              "file": "/assets/file/Carts2.docx",
+              "description": "Bar Cart for Home, 3-Tier Serving Cart with Wheels and Handle...",
+              "imageUrl": "/assets/images/kitchen/Carts/2.jpg",
+              "rating": 4.6,
+              "location": "Nha Trang, Vietnam",
+              "price": "$153",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+        {
+          "name": "Countertops",
+          "items": [
+            {
+              "id": 61,
+              "name": "Countertops",
+              "file": "/assets/file/Countertops1.docx",
+              "description": "ROOMTEC Laminate Countertop, Wood Countertop for DIY...",
+              "imageUrl": "/assets/images/kitchen/Countertops/1.jpg",
+              "rating": 4.5,
+              "location": "Nha Trang, Vietnam",
+              "price": "$1224",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 62,
+              "name": "Countertops",
+              "file": "/assets/file/Countertops2.docx",
+              "description": "VEELIKE Black Galaxy Granite Contact Paper for Countertops ...",
+              "imageUrl": "/assets/images/kitchen/Countertops/2.jpg",
+              "rating": 4.3,
+              "location": "Nha Trang, Vietnam",
+              "price": "$17",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+        {
+          "name": "Faucets",
+          "items": [
+            {
+              "id": 63,
+              "name": "Faucets",
+              "file": "/assets/file/Faucets1.docx",
+              "description": "KRAUS Oletto Touchless Sensor Pull-Down ...",
+              "imageUrl": "/assets/images/kitchen/Faucets/1.jpg",
+              "rating": 4.3,
+              "location": "Nha Trang, Vietnam",
+              "price": "$1242",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 64,
+              "name": "Faucets",
+              "file": "/assets/file/Faucets2.docx",
+              "description": "Kitchen faucets with Pull Out Spray Gold ...",
+              "imageUrl": "/assets/images/kitchen/Faucets/2.jpg",
+              "rating": 4.3,
+              "location": "Nha Trang, Vietnam",
+              "price": "$124",
+              "availability": "Available",
+              "categoryType": "Contemporary Styless"
+            }
+          ]
+        },
+        {
+          "name": "Kitchen Islands",
+          "items": [
+            {
+              "id": 65,
+              "name": "Kitchen Islands",
+              "file": "/assets/file/Kitchen Islands1.docx",
+              "description": "Deluxe Mobile Kitchen Island Cart with Water ...",
+              "imageUrl": "/assets/images/kitchen/Kitchen Islands/1.jpg",
+              "rating": 4.3,
+              "location": "Nha Trang, Vietnam",
+              "price": "$1171",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 66,
+              "name": "Kitchen Islands",
+              "file": "/assets/file/Kitchen Islands2.docx",
+              "description": "Mobile Rolling Island Cart for Kitchen, Kitchen ...",
+              "imageUrl": "/assets/images/kitchen/Kitchen Islands/2.jpg",
+              "rating": 4.3,
+              "location": "Nha Trang, Vietnam",
+              "price": "$1366",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+        {
+          "name": "Pantries",
+          "items": [
+            {
+              "id": 67,
+              "name": "Pantries",
+              "file": "/assets/file/Pantries1.docx",
+              "description": "Bathroom Cabinet, Pantry Storage Cabinet with ...",
+              "imageUrl": "/assets/images/kitchen/Pantries/1.jpg",
+              "rating": 4.3,
+              "location": "Nha Trang, Vietnam",
+              "price": "$1158",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            },
+            {
+              "id": 68,
+              "name": "Pantries",
+              "file": "/assets/file/Pantries2.docx",
+              "description": "Giantex Bathroom Floor Storage Cabinet ...",
+              "imageUrl": "/assets/images/kitchen/Pantries/2.jpg",
+              "rating": 4.9,
+              "location": "Nha Trang, Vietnam",
+              "price": "$1149",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+            }
+          ]
+        },
+        {
+          "name": "Sinks",
+          "items": [
+            {
+              "id": 69,
+              "name": "Sinks",
+              "file": "/assets/file/Sinks1.docx",
+              "description": "KRAUS Kore 30-Inch Undermount Workstation ...",
+              "imageUrl": "/assets/images/kitchen/Sinks/1.jpg",
+              "rating": 4.0,
+              "location": "Nha Trang, Vietnam",
+              "price": "$1377",
+              "availability": "Available",
+              "categoryType": "Contemporary Stylesss"
+            },
+            {
+              "id": 70,
+              "name": "Sinks",
+              "file": "/assets/file/Sinks2.docx",
+              "description": "Kraus Standard PRO 33-inch 16 Gauge ...",
+              "imageUrl": "/assets/images/kitchen/Sinks/2.jpg",
+              "rating": 4.7,
+              "location": "Nha Trang, Vietnam",
+              "price": "$1394",
+              "availability": "Available",
+              "categoryType": "Contemporary Stylesss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bathroom",
+      "subcategories": [
+        {
+          "name": "Bathroom Sinks",
+          "items": [
+            {
+              "id": 71,
+              "name": "Bathroom Sinks",
+              "file": "/assets/file/Bathroom Sinks1.docx",
+              "description": "Bathroom Sink White Ceramic Lavatory Vanity...",
+              "imageUrl": "/assets/images/bathroom/Bathroom Sinks/1.jpg",
+              "rating": 4.7,
+              "location": "Hai Phong, Vietnam",
+              "price": "$140",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 72,
+              "name": "Bathroom Sinks",
+              "file": "/assets/file/Bathroom Sinks2.docx",
+              "description": "Safavieh BSK5402A Solea Collection Mira Bathroom Basin Sink, White",
+              "imageUrl": "/assets/images/bathroom/Bathroom Sinks/2.jpg",
+              "rating": 4.7,
+              "location": "Hai Phong, Vietnam",
+              "price": "$139",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            }
+          ]
+        },
+        {
+          "name": "Bathtubs",
+          "items": [
+            {
+              "id": 73,
+              "name": "Bathtubs",
+              "file": "/assets/file/Bathtubs1.docx",
+              "description": "WOODBRIDGE BTA1528-B/N-Drain &O Bathtub, Brushed Nickel",
+              "imageUrl": "/assets/images/bathroom/Bathtubs/1.jpg",
+              "rating": 4.7,
+              "location": "Hai Phong, Vietnam",
+              "price": "$1802",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 74,
+              "name": "Bathtubs",
+              "file": "/assets/file/Bathtubs2.docx",
+              "description": "Vinnova 234068-BAT-WH Melania 68 inch x 32 inch Soaking Bathtub,White",
+              "imageUrl": "/assets/images/bathroom/Bathtubs/2.jpg",
+              "rating": 4.6,
+              "location": "Hai Phong, Vietnam",
+              "price": "$1799",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            }
+          ]
+        },
+        {
+          "name": "Bidets",
+          "items": [
+            {
+              "id": 75,
+              "name": "Bidets",
+              "file": "/assets/file/Bidets1.docx",
+              "description": "TOTO WASHLET A2 Electronic Bidet Toilet Seat with ...",
+              "imageUrl": "/assets/images/bathroom/Bidets/1.jpg",
+              "rating": 4.7,
+              "location": "Hai Phong, Vietnam",
+              "price": "$1271",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 76,
+              "name": "Bidets",
+              "file": "/assets/file/Bidets2.docx",
+              "description": "TOTO SW3036R#01 WASHLET K300 Electronic Bidet ...",
+              "imageUrl": "/assets/images/bathroom/Bathtubs/2.jpg",
+              "rating": 5.0,
+              "location": "Hai Phong, Vietnam",
+              "price": "$1699",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            }
+          ]
+        },
+        {
+          "name": "Cabinets",
+          "items": [
+            {
+              "id": 77,
+              "name": "Cabinets",
+              "file": "/assets/file/Cabinets1.docx",
+              "description": "The Toilet Bathroom Cabinet with Towels Bar ...",
+              "imageUrl": "/assets/images/bathroom/Cabinets/1.jpg",
+              "rating": 4.2,
+              "location": "Hai Phong, Vietnam",
+              "price": "$126",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 78,
+              "name": "Cabinets",
+              "file": "/assets/file/Cabinets2.docx",
+              "description": "YITAHOME Bathroom Cabinet Medicine Cabinet...",
+              "imageUrl": "/assets/images/bathroom/Cabinets/2.jpg",
+              "rating": 4.7,
+              "location": "Hai Phong, Vietnam",
+              "price": "$167",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            }
+          ]
+        },
+        {
+          "name": "Medicine Cabinets",
+          "items": [
+            {
+              "id": 79,
+              "name": "Medicine Cabinets",
+              "file": "/assets/file/Medicine Cabinets1.docx",
+              "description": "KOHLER K-CB-CLC2026FS Beveled Medicine Cabinet ...",
+              "imageUrl": "/assets/images/bathroom/Medicine Cabinets/1.jpg",
+              "rating": 4.1,
+              "location": "Hai Phong, Vietnam",
+              "price": "$1339",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 80,
+              "name": "Medicine Cabinets",
+              "file": "/assets/file/Medicine Cabinets2.docx",
+              "description": "Medicine Cabinet with Miroor Metal Framed Recessed...",
+              "imageUrl": "/assets/images/bathroom/Medicine Cabinets/2.jpg",
+              "rating": 4.1,
+              "location": "Hai Phong, Vietnam",
+              "price": "$159",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            }
+          ]
+        },
+        {
+          "name": "Mirrors",
+          "items": [
+            {
+              "id": 81,
+              "name": "Mirrors",
+              "file": "/assets/file/Mirrors1.docx",
+              "description": "Single Beveled Edge Circle Mirror Frameless Wall..",
+              "imageUrl": "/assets/images/bathroom/Mirrors/1.jpg",
+              "rating": 4.7,
+              "location": "Hai Phong, Vietnam",
+              "price": "$1155",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 82,
+              "name": "Mirrors",
+              "file": "/assets/file/Mirrors2.docx",
+              "description": "Gold Round Mirror, 18 Inch Circle Mirror...",
+              "imageUrl": "/assets/images/bathroom/Mirrors/2.jpg",
+              "rating": 4.0,
+              "location": "Hai Phong, Vietnam",
+              "price": "$137",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            }
+          ]
+        },
+        {
+          "name": "Showers",
+          "items": [
+            {
+              "id": 83,
+              "name": "Showers",
+              "file": "/assets/file/Showers1.docx",
+              "description": "Extension Arm, 9 Settings, Anti-leak ...",
+              "imageUrl": "/assets/images/bathroom/Showers/1.jpg",
+              "rating": 5.0,
+              "location": "Hai Phong, Vietnam",
+              "price": "$174",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 84,
+              "name": "Showers",
+              "file": "/assets/file/Showers2.docx",
+              "description": "Head and Hand Held Shower Combo, Gold ...",
+              "imageUrl": "/assets/images/bathroom/Showers/2.jpg",
+              "rating": 4.9,
+              "location": "Hai Phong, Vietnam",
+              "price": "$157",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            }
+          ]
+        },
+        {
+          "name": "Vanities",
+          "items": [
+            {
+              "id": 85,
+              "name": "Vanities",
+              "file": "/assets/file/Vanities1.docx",
+              "description": "Modway Render 24 Wall-Mount Bathroom...",
+              "imageUrl": "/assets/images/bathroom/Vanities/1.jpg",
+              "rating": 4.5,
+              "location": "Hai Phong, Vietnam",
+              "price": "$1268",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 86,
+              "name": "Vanities",
+              "file": "/assets/file/Vanities2.docx",
+              "description": "Deer Valley DV-1BV0152NW 30'' Wall Mounted...",
+              "imageUrl": "/assets/images/bathroom/Vanities/2.jpg",
+              "rating": 4.8,
+              "location": "Hai Phong, Vietnam",
+              "price": "$1259",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            }
+          ]
+        },
+        {
+          "name": "Toilets",
+          "items": [
+            {
+              "id": 87,
+              "name": "Toilets",
+              "file": "/assets/file/Toilets1.docx",
+              "description": "Bathrooms,Elongated Toilet With Warm Water...",
+              "imageUrl": "/assets/images/bathroom/Toilets/1.jpg",
+              "rating": 5.0,
+              "location": "Hai Phong, Vietnam",
+              "price": "$1279",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            },
+            {
+              "id": 88,
+              "name": "Toilets",
+              "file": "/assets/file/Toilets2.docx",
+              "description": "Bidet Built in Chair Height One Piece Smart Bidet Toilet 1.28GPF Auto Flush,Foot Kick,Blackout Flush,Remote Control Modern Toilets for Bathrooms",
+              "imageUrl": "/assets/images/bathroom/Toilets/2.jpg",
+              "rating": 5.0,
+              "location": "Hai Phong, Vietnam",
+              "price": "$1369",
+              "availability": "Available",
+              "categoryType": "Elegant Look Styles"
+
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

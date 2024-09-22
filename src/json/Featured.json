@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Luxury Living Room Set",
+      "description": "Elegant sofa and decor set for a modern living room.",
+      "image": "/assets/videos/vd5.mp4"
+    },
+    {
+      "id": 2,
+      "name": "Minimalist Bedroom",
+      "description": "Sleek bed frame and minimal decor for a cozy bedroom.",
+      "image": "/assets/videos/vd4.mp4"
+    },
+    {
+      "id": 3,
+      "name": "Designer Kitchen",
+      "description": "Contemporary kitchen setup with high-end materials.",
+      "image": "/assets/videos/vd6.mp4"
+    }
+  ]
+  
